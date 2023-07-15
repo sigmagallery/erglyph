@@ -1,15 +1,9 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
+title: Erglyph
+description: Erglyph by DoctoredDouglass
+image: https://gateway.ipfs.io/ipfs/bafybeidrvbler7dybdv2bzfpbcoksnjesm44dwuhqf3g66xuozm5ykvkoy
 mintAddresses:
-  - 
+  - 9f3Rnk46ajhPUmxuZ3Vo8XDNPnF6zBcwKkL1aGNMjrsiF8sxRKv
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/DoctoredDouglas
     icon: fa-brands fa-twitter fa-fw
-  - label: Discord
-    url: https://discord.com/invite/
-    icon: fa-brands fa-discord fa-fw
-  - label: Website
-    url: 
-    icon: fa-solid fa-globe fa-fw
