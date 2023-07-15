@@ -1,5 +1,5 @@
 title: Erglyph
-description: Erglyph by DoctoredDouglass
+description: Erglyph - A series of animated gifs on Ergo. Each 1/1 collage explores an idea, a place, an imagined space. - by DoctoredDouglass
 image: https://gateway.ipfs.io/ipfs/bafybeidrvbler7dybdv2bzfpbcoksnjesm44dwuhqf3g66xuozm5ykvkoy
 mintAddresses:
   - 9f3Rnk46ajhPUmxuZ3Vo8XDNPnF6zBcwKkL1aGNMjrsiF8sxRKv
@@ -7,3 +7,6 @@ bannerLinks:
   - label: Twitter
     url: https://twitter.com/DoctoredDouglas
     icon: fa-brands fa-twitter fa-fw
+  - label: Linktree
+    url: https://linktr.ee/DoctoredDouglass
+    icon: fa-brands fa-link fa-fw
