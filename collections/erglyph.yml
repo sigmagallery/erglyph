@@ -7,6 +7,14 @@ nfts:
     Erg_______ Series #01
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeicumdfogaawzuztubhqvuksiqsu3udfvulmt4ihrhdqk4wcpcp4qa
+- tokenId: 2cdab72f334d118e52f11c675d06cb6a93aa33812b8866c25b9fe825cc5eee7e
+  name: '#02 ErgOregon - DoctoredDouglass'
+  description: |-
+    Ergo Oregon
+    by DoctoredDouglass
+    Erg_______ Series #02
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeianhtvjsgggpzgkjyajfhfx6alsk3cfzoam7fe4csjpddqvuwl55e
 - tokenId: ea01eb5d504a526962ffdcb09e4e094348e4325cc4fa33f08fb10183e5ffea28
   name: '#03 ErgAC - DoctoredDouglass'
   description: |-
@@ -23,6 +31,18 @@ nfts:
     DoctoredDouglass
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeiftknuavjtyaw5gf4ziipsc353idwr4hxnbqjccvl5jejdckmrocy
+- tokenId: 895bf34ffa444e150a87f3cf480ee6b8ab2ddc7d92d82d1dd19cd7be7cfcb83c
+  name: Erg5thAve.  DoctoredDouglass
+  description: |-
+    Erg5thAve.
+    Erglyph#14
+    DoctoredDouglass
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidb7cxgfhovqghfqnbdgrrcwca7stenkiaipxjkoosob6irwigzx4
+- tokenId: c9a06f4fab47b08c3a974460d298072b1347c4071c00b1f9e5498432e6295966
+  name: ErgAC  |  DoctoredDouglass
+  description: Erg Atlantic City by DoctoredDouglass
+  imageUrl: https://i.ibb.co/vxGHW4Q/ErgAC.gif
 - tokenId: f6c5c841d937f4c70b3b6c8bd1bf6061ba0c3bd9de6ef5005feaabd84453130b
   name: ErgCairo . DoctoredDouglass
   description: |-
@@ -48,6 +68,14 @@ nfts:
     Erglyph#11
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeibidpvjnfot3b4tc7yrlbpniv6m7k2ixxnjb7o6dviyfpf2a66wza
+- tokenId: 68236aa2f654a1b1ce45ec7ca58000e10d326e3b8ee2a9ed274a80915c9aee20
+  name: ErgEphyra . DoctoredDouglass
+  description: |
+    ErgEphyra
+    DoctoredDouglass
+    Erglpyh#11
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibidpvjnfot3b4tc7yrlbpniv6m7k2ixxnjb7o6dviyfpf2a66wza
 - tokenId: 7d4d2d0783de5b01a65f5cd6d5df5c4159caf9a05568b2a0ea0fa60332898d87
   name: ErgGreen . DoctoredDouglass
   description: |-
@@ -56,6 +84,14 @@ nfts:
     DoctoredDouglass
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeicbzsieukdgg5accehmaooiake5rrtk75glwifojkdmxk4ynjccva
+- tokenId: 0445317a9568f98ef7328bebc5b05f2821fae1bbc282f4ace7182c2e9bbc9eb8
+  name: ErgGreen . DoctoredDouglass
+  description: |-
+    ErgGreen
+    Erglyph#15
+    DoctoredDouglass
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihd7m5vmnfnvqnv3tih7ppqllgl74ib73ob6xyxoyrprydhtsa23a
 - tokenId: 7b3ef1c7b5338ee977aa3782d3e446856b6a87d2bca6c08ad0c30cf7701ac36f
   name: ErgKrewe . DoctoredDouglass
   description: |-
@@ -64,6 +100,15 @@ nfts:
     Erglyph#10
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeigczyyibbh4uylluh2dfyphllgyilpm4aiq7s7e4z7wlttcsiwrxi
+- tokenId: 1404c3b0d38805e3320d301eefcdaa06472e72dbcda9f3619def4623983db845
+  name: ErgMine . DoctoredDouglass
+  description: |+
+    ErgMine
+    DoctoredDouglass
+    Erglyph#09
+
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidoh2oqe7jbvwc5wtldlukw2xiefmnobao3lexh2ah7hbqbqmdjnm
 - tokenId: b8a78892a7a7abccd6cb6a732afb844f1d43926706c1cc789a95d3bd0549924f
   name: ErgMine . DoctoredDouglass
   description: |-
@@ -72,6 +117,14 @@ nfts:
     Erglyph#09
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeiemd7wrshhpduu55pqe4x4mpvdu4bprxjm7lzm24uix3u5rkyd7wy
+- tokenId: 28dd1b447fe7cf205155e70ff91a19b711575000d7df8e0b27e1d9f2dea4ced4
+  name: 'ErgMoon . Erglyph #04'
+  description: |-
+    Ergo Moon
+    DoctoredDouglass
+    Erglyph #04
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeialgj2ymkv5svddaztubo3bx3qcmfoiyymzcfsuvngfbwmzeo43ey
 - tokenId: 22976dbf1634f861cc86408e55eddc89089ee5f35915e4067379dec76c1d2c26
   name: ErgOasis . DoctoredDouglass
   description: |
@@ -88,6 +141,14 @@ nfts:
     DoctoredDouglass
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeidrvbler7dybdv2bzfpbcoksnjesm44dwuhqf3g66xuozm5ykvkoy
+- tokenId: 8aa22ef0ea07923938b20139c9656416c93df148fc2395a8c38f4e3cef7c6e6b
+  name: ErgOregon - DoctoredDouglass
+  description: |
+    Ergo Oregon
+    by DoctoredDouglass
+    ErgPlace Series #01
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicumdfogaawzuztubhqvuksiqsu3udfvulmt4ihrhdqk4wcpcp4qa
 - tokenId: abc97ddaac00d5d7d39a6af4be393c8b1047105d0af05abaab784ddf504dfb58
   name: ErgOregon . DoctoredDouglass
   description: |-
@@ -104,6 +165,14 @@ nfts:
     DoctoredDouglass
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeifcnhmi2j4v6aywqm77ypkt5upphrcvfffxkxdk6o2zrnpdq53taa
+- tokenId: 926c88797b208c23d895854c5a931578867704ce9ea4550eba482095bf9d713f
+  name: ErgRx . DoctoredDouglass
+  description: |-
+    ErgRx
+    Erglyph#13
+    DoctoredDouglass
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiesjicjebdqwscjbqlscp7vkcsoukwvsoil4ob4j3ygrnq5tzwxau
 - tokenId: 0472ea742354f78a3b9bfc84c230c4358fcc534a12fc50b6d851b1c27b1b9b96
   name: ErgSeoul . DoctoredDouglass
   description: |-
