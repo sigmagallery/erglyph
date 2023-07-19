@@ -2,3 +2,4 @@ collections:
 - label: Erglyph
   data: erglyph.yml
   image: https://gateway.ipfs.io/ipfs/bafybeidrvbler7dybdv2bzfpbcoksnjesm44dwuhqf3g66xuozm5ykvkoy
+  format: gif
